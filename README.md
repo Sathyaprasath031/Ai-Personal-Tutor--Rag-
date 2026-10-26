@@ -9,7 +9,7 @@ A RAG-powered personal tutor that lets students upload their notes and PDFs, org
 - **Parsing:** PyMuPDF, python-docx, python-pptx, Tesseract OCR fallback
 - **Retrieval:** Hybrid search (vector + keyword), RRF fusion, cross-encoder reranker
 - **Embeddings/Reranker:** `BAAI/bge-small-en-v1.5` and `BAAI/bge-reranker-base` (local)
-- **LLM:** Anthropic Claude API (model configurable via `.env`)
+- **LLM:** NVIDIA NEMOTRON API (model configurable via `.env`)
 - **Infra:** Docker Compose (db, redis, api, worker)
 - **Frontend:** React 18 (Vite + TypeScript)
 
