@@ -1,0 +1,4 @@
+{"question": "State Newton's second law of motion", "expected_keywords": ["force", "mass", "acceleration"], "expected_file": "sample_physics_notes.pdf", "expected_page": 1}
+{"question": "What is the principle of conservation of energy?", "expected_keywords": ["energy", "created", "destroyed", "transformed"], "expected_file": "sample_physics_notes.pdf", "expected_page": 2}
+{"question": "How does momentum relate to impulse?", "expected_keywords": ["impulse", "momentum", "force", "time"], "expected_file": "sample_physics_notes.pdf", "expected_page": 2}
+{"question": "Explain Kepler's first law of planetary motion", "expected_keywords": ["orbit", "ellipse", "sun", "foci"], "expected_file": "sample_physics_notes.pdf", "expected_page": 3}
