@@ -4,7 +4,7 @@ A RAG-powered personal tutor that lets students upload their notes and PDFs, org
 
 ## Tech Stack
 
-- **Backend:** Python 3.11, FastAPI, Redis + RQ worker
+- **Backend:**Python 3.11, FastAPI, Redis + RQ worker
 - **Database:** PostgreSQL 16 with pgvector and full-text search
 - **Parsing:** PyMuPDF, python-docx, python-pptx, Tesseract OCR fallback
 - **Retrieval:** Hybrid search (vector + keyword), RRF fusion, cross-encoder reranker
